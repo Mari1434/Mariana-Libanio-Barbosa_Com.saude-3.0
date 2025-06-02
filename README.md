@@ -61,7 +61,7 @@ Este projeto foi construído com as seguintes tecnologias e bibliotecas:
 
 ## 📱 Telas (Preview):
 
-![SplashScreen](https://github.com/user-attachments/assets/33b0672d-2161-43ca-bc01-a1c89d3e6251)
+![SplashScreen](https://github.com/user-attachments/assets/3de2c49b-3ac6-4921-8506-3bfc7d36992c)
 ![LoginScreen](https://github.com/user-attachments/assets/d1b2bc78-418f-4f33-9a5d-ff2bca28cd27)
 ![CadastroScreen](https://github.com/user-attachments/assets/8164f83c-62fd-4fbc-9768-a83593e1d137)
 ![HomeScreen](https://github.com/user-attachments/assets/05613943-0ad4-41b9-90bb-0af6c3578bd2)
