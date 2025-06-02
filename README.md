@@ -74,7 +74,7 @@ Este projeto foi construído com as seguintes tecnologias e bibliotecas:
 
 ## 👩‍💻 Informações da desenvolvedora:
 
-Developer: **Mariana Libânio Barbosa**
+By: **Mariana Libânio Barbosa**
 
 * **GitHub**: [@Mari1434](https://github.com/Mari1434)
 * **LinkedIn**: [Mariana Libânio Barbosa](https://www.linkedin.com/in/mariana-libânio-barbosa-83b8451a4)
