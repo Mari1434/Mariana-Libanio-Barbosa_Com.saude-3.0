@@ -72,7 +72,7 @@ Este projeto foi construído com as seguintes tecnologias e bibliotecas:
 ![SonoScreen](https://github.com/user-attachments/assets/233d0724-24c9-4906-ac87-9313f2023018)
 ![AguaScreen](https://github.com/user-attachments/assets/198ea05a-0cb9-4923-b4e3-2b2bfecd08ee)
 
-## 👩‍💻 Desenvolvedora:
+## 👩‍💻 Informações da desenvolvedora:
 
 **Mariana Libânio Barbosa**
 
